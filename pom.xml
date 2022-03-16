@@ -15,10 +15,9 @@
 	<name>cypher-api</name>
 	<description>Project for Spring Boot</description>
 	<properties>
-		<java.version>11</java.version>
-		  <sonar.organization>vsvilella</sonar.organization>
+  <sonar.organization>vsvilella</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-	</properties>
+</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
